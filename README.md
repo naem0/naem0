@@ -65,55 +65,79 @@ I'm **MD Naem**, a Full-Stack Developer from Bangladesh. I enjoy turning real-wo
 
 <div align="center">
 
-**Frontend**
+**Frontend & UI**
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind&perline=7" alt="Frontend technologies" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,bootstrap,redux&perline=9" alt="JavaScript, TypeScript, React, Next.js, HTML, CSS, Tailwind CSS, Bootstrap and Redux" />
 
-**Backend & Database**
+**Backend & APIs**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&perline=7" alt="Backend and database technologies" />
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,socketio&perline=8" alt="Node.js, NestJS, Express.js and Socket.IO" />
 
-**Development Tools**
+**Databases, Cache & Queues**
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode&perline=7" alt="Development tools" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,prisma&perline=8" alt="MongoDB, PostgreSQL, Redis and Prisma" />
+
+**State, Data & Authentication**
+
+<img src="https://skillicons.dev/icons?i=zustand&perline=5" alt="Zustand" />
+<br />
+<sub>TanStack Query · Redux · NextAuth · JWT · Axios · REST APIs</sub>
+
+**Mobile & AI**
+
+<img src="https://skillicons.dev/icons?i=react,expo&perline=5" alt="React and Expo ecosystem" />
+<br />
+<sub>React Native · OpenRouter · AI API Integration · Retrieval-Augmented Generation (RAG)</sub>
+
+**DevOps & Developer Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,nginx,postman,vscode,figma&perline=8" alt="Git, GitHub, Docker, Linux, Nginx, Postman, VS Code and Figma" />
 
 </div>
 
-<p align="center">
-  <sub>Currently expanding my hands-on experience with PostgreSQL, Prisma, NestJS, and AI application patterns.</sub>
-</p>
+<p align="center"><sub>My strongest hands-on areas are React, Next.js, JavaScript/TypeScript, Node.js, Express.js, and MongoDB. I also work with or continue to deepen my experience in NestJS, PostgreSQL, Prisma, Redis, queues, mobile development, and AI integrations.</sub></p>
 
-## 🚀 Featured Projects
+## 🚀 Selected Projects & Products
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">E-Commerce Solution</h3>
+      <h3 align="center">🤖 AutoZeniq</h3>
+      <p align="center"><a href="https://AutoZeniq.com"><strong>Visit AutoZeniq.com ↗</strong></a></p>
+      <p>Bangladesh-first AI business-support platform focused on helping online businesses manage customer support and commerce workflows.</p>
+      <p><sub>Private product development · Public website only</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🛍️ Promise Mart</h3>
+      <p align="center"><a href="https://www.promisemart.com"><strong>Visit Promise Mart ↗</strong></a></p>
+      <p>An e-commerce platform for wholesale, retail, and commission-based shopping in Bangladesh.</p>
+      <p><sub>Live public platform</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🏢 Promise ERP</h3>
+      <p align="center"><a href="https://github.com/naem0/promise-erp"><strong>View Public Repository ↗</strong></a></p>
+      <p>ERP-focused development project. The linked repository is public and its implementation is still being developed.</p>
+      <p><sub>Public source repository</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🛒 E-Commerce Solution</h3>
       <p align="center">
         <a href="https://github.com/naem0/e-commerce-fontend">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=naem0&repo=e-commerce-fontend&hide_border=true&theme=transparent" alt="E-Commerce Solution repository card" />
         </a>
       </p>
-      <p>A full-stack online shopping project with product discovery, cart and order workflows, and store administration.</p>
+      <p>A full-stack online shopping platform with product discovery, cart and order workflows, multilingual UI, and store administration.</p>
       <p><strong>Stack:</strong> Next.js · Express.js · MongoDB · Tailwind CSS</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Delivery App</h3>
-      <p align="center">
-        <a href="https://github.com/naem0/Delivery-App">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=naem0&repo=Delivery-App&hide_border=true&theme=transparent" alt="Delivery App repository card" />
-        </a>
-      </p>
-      <p>A Bangladesh-focused delivery application with customer ordering, admin workflows, and real-time order updates.</p>
-      <p><strong>Stack:</strong> Next.js · TypeScript · Express.js · MongoDB · Socket.IO</p>
     </td>
   </tr>
 </table>
 
-### Other Work
+### More Development Work
 
-- **AutoZeniq — AI Business Support SaaS:** A Bangladesh-first product focused on helping online businesses manage customer support and commerce workflows with AI. This is a private project; only high-level, non-confidential information is shared here.
-- **Game Tournament Platform:** A full-stack application concept covering tournament participation, account workflows, and administration. [Explore repository](https://github.com/naem0/Game-Event-Fontend).
+- **Delivery App:** Real-time delivery and order-tracking application. [Explore repository](https://github.com/naem0/Delivery-App).
+- **Game Tournament Platform:** Gaming tournament frontend project. [Explore repository](https://github.com/naem0/Game-Event-Fontend).
 
 ## 💼 Experience
 
