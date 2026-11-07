@@ -81,7 +81,7 @@ I'm **MD Naem**, a Full-Stack Developer from Bangladesh. I enjoy turning real-wo
 
 <img src="https://skillicons.dev/icons?i=zustand&perline=5" alt="Zustand" />
 <br />
-<sub>TanStack Query · Redux · NextAuth · JWT · Axios · REST APIs</sub>
+<sub>TanStack Query · Zustand · Redux · shadcn/ui · NextAuth · JWT · Axios · REST APIs</sub>
 
 **Mobile & AI**
 
@@ -95,7 +95,7 @@ I'm **MD Naem**, a Full-Stack Developer from Bangladesh. I enjoy turning real-wo
 
 </div>
 
-<p align="center"><sub>My strongest hands-on areas are React, Next.js, JavaScript/TypeScript, Node.js, Express.js, and MongoDB. I also work with or continue to deepen my experience in NestJS, PostgreSQL, Prisma, Redis, queues, mobile development, and AI integrations.</sub></p>
+<p align="center"><sub>My strongest hands-on areas are React, Next.js, JavaScript/TypeScript, Node.js, Express.js, and MongoDB. I also work with or continue to deepen my experience in NestJS, PostgreSQL, Prisma, Redis, BullMQ, mobile development, and AI integrations.</sub></p>
 
 ## 🚀 Selected Projects & Products
 
