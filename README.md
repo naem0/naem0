@@ -25,6 +25,15 @@
 
 <div align="center">
 
+<p align="center"><strong>🕹️ CONTRIBUTION ARCADE</strong><br /><sub>Watch the snake collect your contribution blocks</sub></p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/naem0/naem0/output/github-contribution-grid-snake-dark.svg" />
+    <img width="100%" src="https://raw.githubusercontent.com/naem0/naem0/output/github-contribution-grid-snake.svg" alt="Animated snake game traversing MD Naem's GitHub contribution graph" />
+  </picture>
+</p>
+
 <a href="https://github.com/naem0">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=naem0&bg_color=00000000&color=64748b&line=2563eb&point=0891b2&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph" />
 </a>
